@@ -11,7 +11,7 @@
 
 
   <js-module src="www/DeviceIDPlugin.js" name="DeviceIDPlugin">
-    <clobbers target="window.plugins.DeviceIDPlugin" />
+    <clobbers target="window.DeviceIDPlugin" />
   </js-module>
 
   <!-- android -->
